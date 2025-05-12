@@ -1,4 +1,4 @@
-# 📦 Catalog Clustering Pipeline for Fashion & Gifting
+# 📦 Catalog Clustering
 
 This project presents an unsupervised multimodal clustering pipeline that organizes thousands of fashion and gifting products (e.g., mugs, T-shirts, bags) into semantically coherent groups. It leverages multimodal embeddings, density-based clustering, and large language models to generate interpretable, scalable cluster outputs suitable for downstream business applications.
 
